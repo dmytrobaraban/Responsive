@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monserrat&display=swap');
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+body{ 
+    margin: 0 auto;
+}
+
+html {
+    font-size: 18px;
+  }
+
+footer{
+      margin-bottom: 65px;
+  }
+  
+        .container {
+   max-width: 300px;
+    width: 100%;
+   margin: 0 auto;
+   text-align: center;
+    
+           }
+
+.group { 
+    padding: 137px 10px 135px 10px;
+
+}
+
+
+
+.header {
+        color: #ffffff;
+        margin-bottom: 35px;
+    }
+
+    .header__item{ font-family: 'Montserrat', sans-serif;
+padding-bottom: 1.611111111111111rem;
+text-transform: uppercase;
+}
+
+.header__item_first{ font-size: 1.111111111111111rem;
+    padding: 0 63px 0 63px;
+}
+
+.header__item_second{
+    font-size: 1.666666666666667rem;
+    padding: 50px 4px 0 4px;
+}
+
+.text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    padding-bottom: 15px;
+    
+}
+/* line-hight: 1.5 for text!! */
+.how{
+margin-bottom: 15px;
+margin-top: 33px;
+
+}
+
+.howtext{font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.howtext__second{
+    margin: 40px 10px 14px 10px;
+}
+
+.text1{ font-family: 'Montserrat', sans-serif;
+    position: absolute;
+font-size: 24px;
+font-weight: 700;
+color: #ffffff;
+padding: 60px 30px 122px 20px;
+text-align: initial;
+
+}
+
+.text2{font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #E3E3E3;
+    position: absolute;
+    padding: 127px 24px 41px 20px;
+    text-align: initial;
+
+}
+
+
+.find{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    color: #ffffff;
+  background-color: #FF4E50;
+  border-radius: 40px;
+  padding: 12px 46px;
+
+}
+
+.promo{
+       background:url(../img/backgroundm.png);
+       background-repeat: no-repeat;
+       min-height: 540px; 
+       min-width: 300px;
+          
+}
+
+.steps{ 
+
+    
+        }
+
+
+        .spteppos {
+            position: absolute;
+            padding: 17px 208px 200px 20px ;
+        }
+        
+        .stepnum{
+            text-decoration: none;
+            text-transform: uppercase;
+            color: #ffffff;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 10px;
+            background-color: #FF4E50;
+            border-radius: 40px;
+            padding: 5px 12px;
+            font-weight: 400;
+            white-space: inherit;
+            letter-spacing: 2px;
+                               }
+    
+
+     .steps__item{
+margin-bottom: 10px;
+
+        }
+     .steps__item:last-of-type{
+           margin-bottom: 0;
+        }
+
+.steps__item_step1{
+    position: relative;
+    background: url(../img/step1m.png);
+    background-repeat: no-repeat;
+       min-height: 240px;
+       min-width: 300px;
+       }
+
+.steps__item_step2{
+    position: relative;
+    background: url(../img/step2m.png);
+        background-repeat: no-repeat;
+        min-height: 240px;
+        min-width: 300px;
+      
+}
+
+.steps__item_step3{
+    position: relative;
+    background: url(../img/step3m.png);
+    background-repeat: no-repeat;
+    min-height: 240px;
+        min-width: 300px;
+        
+}
+
+.partner__item{
+    padding-bottom: 17px;
+
+}
+.partner__item:last-of-type{
+    margin-bottom: 36px;
+}
+
+.avatar{
+    position: relative;
+    box-sizing: border-box;
+    padding-bottom: 17px;
+    
+    
+}
+
+.name{font-family: 'Montserrat', sans-serif;
+font-size: 18px;
+padding-bottom: 12px;
+
+
+}
+
+.hobbie{ font-family: 'Roboto', sans-serif;
+font-size: 16px;
+padding: 0 32px 0 32px;
+
+}
+
+.botton{
+      padding: 0 10px 0 10px;
+      
+}
+
+.btn{
+        font-family: 'Montserrat', sans-serif;
+font-size: 18px;
+text-decoration: none;
+color: #FF4E50;
+border: 2px solid #FF4E50;
+border-radius: 40px;
+padding: 8px 50px;
+}
