@@ -19,7 +19,7 @@ footer{text-align: center;
   }
   
     .container {
-    max-width: 1400px;
+    max-width: 300px;
     width: 100%;
    margin: 0 auto;
               }
@@ -221,6 +221,7 @@ padding: 8px 48px;
  
     .container {
                width: 100%;
+            min-width:768;
         margin: 0 auto;
         text-align: center;
                 }
