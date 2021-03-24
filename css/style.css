@@ -19,7 +19,7 @@ footer{text-align: center;
   }
   
     .container {
-    max-width: 300px;
+    max-width: 1400px;
     width: 100%;
    margin: 0 auto;
               }
@@ -220,8 +220,7 @@ padding: 8px 48px;
 @media( min-width: 768px){
  
     .container {
-        min-width: 768px;
-         width: 100%;
+               width: 100%;
         margin: 0 auto;
         text-align: center;
                 }
@@ -360,7 +359,7 @@ padding: 8px 48px;
        
 
     .container {
-        min-width: 1440px;
+        
          width: 100%;
         margin: 0 auto;
         text-align: center;
