@@ -360,7 +360,7 @@ padding: 8px 48px;
        
 
     .container {
-        
+        min-width: 1440px;
          width: 100%;
         margin: 0 auto;
         text-align: center;
@@ -400,9 +400,7 @@ padding: 8px 48px;
 }
     .steps__item_step2{
         background: url(../img/step2d.png);
-        
-      
-           max-width: 300px;
+        max-width: 300px;
           
 
 }
